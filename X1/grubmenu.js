@@ -12,8 +12,8 @@ ${tz} *WITA* : ${wita}
 ${tz} *WIT* : ${wit}
 
 ❲ *GROUPMENU* ❳
-${tz} *${prefix}antilink* <on/off>
-${tz} *${prefix}antivirtext* <on/off>
+${tz} *${prefix}antilink* <enable/off>
+${tz} *${prefix}antivirtext* <enable/off>
 ${tz} *${prefix}delete* <reply.txt>
 ${tz} *${prefix}hidetag* <text>
 ${tz} *${prefix}tagall* <text>
@@ -27,9 +27,9 @@ ${tz} *${prefix}add* <62xxx>
 ${tz} *${prefix}kick* <@tag/reply>
 
 ❲ *INFO LAIN* ❳
-${tz} Jika bot tidak merespon, mungkin bot sedang off
+${tz} Jika bot tidak merespon, mungkin bot sedang *COLI*
 ${tz} bot tidak menyimpan riwayat foto/media
-${tz} Silahkan beri waktu 5 detik penggunaan per fitur agar tidak menyebabkan spam
+${tz} Silahkan beri waktu 5 detik penggunaan per fitur agar tidak menyebabkan spam *KONTOL*
 ${tz} Jika menemukan bug/err silahkan hubungi owner
 `
 }
